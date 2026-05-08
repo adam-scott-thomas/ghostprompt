@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ghostprompt"
-version = "0.1.0"
+version = "0.1.1"
 description = "Versioned prompt registry with semantic search, hashing, and audit trail"
 readme = "README.md"
 license = "Apache-2.0"
